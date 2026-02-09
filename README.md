@@ -108,10 +108,10 @@ Based on my approved EB1A journey, I created a **complete self-petition toolkit*
 
 👉 https://topmate.io/eb1a_selfpetition/
 
-- 🔍 **1:1 EB1A Gap Analysis Call – A personalized evaluation of your profile against USCIS EB1A criteria to identify strengths, gaps, and realistic approval readiness**
+- 🔍 **1:1 EB1A Gap Analysis Call** – A personalized evaluation of your profile against USCIS EB1A criteria to identify strengths, gaps, and realistic approval readiness
 
-- 📦 **EB1A Self-Petition Bundle – My sanitized USCIS-approved EB1A petition, AI/DS/ML-focused recommendation letter samples, and a framework to run deep analysis using your preferred LLM**
+- 📦 **EB1A Self-Petition Bundle** – My sanitized USCIS-approved EB1A petition, AI/DS/ML-focused recommendation letter samples, and a framework to run deep analysis using your preferred LLM
 
-- 🧠 **1:1 EB1A Strategy & Petition Review – After you build your self-petition using the bundle, a detailed review and strategy session to refine positioning and close gaps for stronger approval readiness**
+- 🧠 **1:1 EB1A Strategy & Petition Review** – After you build your self-petition using the bundle, a detailed review and strategy session to refine positioning and close gaps for stronger approval readiness
 
 ---
