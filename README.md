@@ -1,12 +1,12 @@
 # 🚀 EB1A Self-Petition & Self-Filing Journey for AI, Data Science & ML Professionals (Beyond Academic Research)
 
-Most EB1A resources focus on PhDs and professors — creating the false belief that industry AI professionals don’t qualify.
+Most EB1A resources focus on PhDs and Academic Researchers (Non IT Profiles) — creating the false belief that industry AI professionals don’t qualify.
 
 **This is wrong.**
 
 USCIS allows EB1A for extraordinary ability in **Technology, Business Transformation, and Applied Innovation**, which fits AI, Data Science, and Machine Learning professionals working across research and industry.
 
-I successfully **self-petitioned and self-filed my EB1A in the niche of _High-Performance Computing (HPC) Applications in AI_** without an attorney — proving EB1A is absolutely achievable beyond academia.
+I successfully **Self-petitioned and Self-filed my EB1A in the niche of _High-Performance Computing (HPC) Applications in AI_** without an attorney — proving EB1A is absolutely achievable beyond academia for **AI, Data Science & ML Professionals**
 
 > ⚠️ **Disclaimer:** I’m not an immigration attorney. This content is based on my personal EB1A self-petition experience. Please consult a qualified immigration lawyer for legal advice.
 
@@ -67,7 +67,7 @@ I successfully **self-petitioned and self-filed my EB1A in the niche of _High-Pe
 
 ---
 
-## 🔥 EB1A Myths That Stop AI Professionals 
+## 🔥 EB1A Myths That Stop IT Professionals (AI, Data Science & ML)
 
 | Myth | Reality |
 |------|--------|
