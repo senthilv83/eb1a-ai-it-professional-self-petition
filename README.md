@@ -81,11 +81,11 @@ I successfully **self-petitioned and self-filed my EB1A in the niche of _High-Pe
 
 ## 📦 EB1A Self-Petition & Filing Bundle for AI/DS/ML Professionals
 
-Based on my approved EB1A journey, I created a **complete self-petition toolkit** to help AI professionals evaluate readiness, organize evidence, and proceed confidently.
+Based on my approved EB1A journey, I created a **complete self-petition toolkit** to help IT professionals (AI, Data Science & ML) evaluate readiness, organize evidence, and proceed confidently.
 
 ### ✅ What’s Included
 - My sanitized actual EB1A petition filled with USCIS  
-- AI, Data Science & ML-focused recommendation letter templates  
+- AI, Data Science & ML-focused my actual recommendation letter 
 - Document checklist & submission guide  
 - Filing strategy walkthrough  
 - 1:1 guidance call explaining my real petition  
