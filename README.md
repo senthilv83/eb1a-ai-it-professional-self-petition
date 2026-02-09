@@ -1,4 +1,4 @@
-# 🚀 EB1A Self-Petition & Self-Filing journey for AI, Data Science & ML professionals (Beyond Academic Research)
+# 🚀 EB1A Self-Petition & Self-Filing journey for AI, Data Science & ML Professionals (Beyond Academic Research)
 
 Most EB1A resources focus on PhDs and professors — creating the false belief that industry AI professionals don’t qualify.
 
