@@ -21,12 +21,12 @@ I successfully **self-petitioned and self-filed my EB1A in the niche of _High-Pe
 **Reality:** Competitive industry and government recognitions fully qualify  
 
 ### 🧠 2) Original Contributions of Major Significance  
-**What worked:** Patented AI systems, enterprise ML platforms, impactful innovations used at scale.  
+**What worked:** Since 2010 : USPTO & India Granted Patents - AI systems, enterprise ML platforms, impactful innovations used at scale.  
 **Myth:** Only academic research matters  
 **Reality:** Applied industry innovation is one of the strongest EB1A proofs  
 
 ### 📚 3) Scholarly Publications  
-**What worked:** IEEE papers, technical research, and industry publications.  
+**What worked:** Since 2012 :IEEE research papers Flagship conferences publications, technical research, Book chapters and industry publications.  
 **Myth:** Must have hundreds of citations or only PhD-level research papers  
 **Reality:** Consistent peer-reviewed technical contributions qualify  
 
