@@ -1,4 +1,4 @@
-# 🚀 Self-Petition & Self-Filing EB1A Journey (Beyond Academia)
+# 🚀 EB1A Self-Petition & Self-Filing journey for AI, Data Science & ML professionals (Beyond Academic Research)
 
 Most EB1A resources focus on PhDs and professors — creating the false belief that industry AI professionals don’t qualify.
 
@@ -36,9 +36,10 @@ I successfully **self-petitioned and self-filed my EB1A in the niche of _High-Pe
 **Reality:** Industry experts reviewing technical work fully qualify  
 
 ### 🏛️ 5) Distinguished Memberships  
-**What worked:** IEEE Senior Member and achievement-based associations.  
+**What worked:** IEEE Senior Member status supported by active, achievement-based contributions — including IEEE paper publications, invited speaker roles, peer reviewing, technical judging, and mentoring IEEE students and researchers.  
 **Myth:** Paid memberships don’t count  
-**Reality:** If selection requires achievement, they are valid  
+**Reality:** When membership or elevation is based on professional achievements and sustained contributions to the field, it strongly supports EB1A eligibility  
+  
 
 ### 🚀 6) Leading or Critical Roles  
 **What worked:** Architecting AI platforms, leading innovation teams, and mission-critical systems.  
@@ -73,7 +74,7 @@ Based on my approved EB1A journey, I created a **complete self-petition toolkit*
 - 1:1 guidance call explaining my real petition  
 
 ### 🎯 Built For
-**AI Researchers • AI/ML Innovators • Data Scientists • ML Engineers • AI Architects • Industry Researchers**
+** AI Industry Researchers • Industry Leaders • AI/ML Innovators • Data Scientists • ML Engineers • AI Architects **
 
 Using the Topmate services below, you can directly map your resume against my real self-petition journey to:
 - ✅ Identify EB1A gaps  
@@ -86,8 +87,10 @@ Using the Topmate services below, you can directly map your resume against my re
 
 ## 🔗 My Topmate EB1A Services
 
+👉 Topmate link: https://topmate.io/eb1a_selfpetition/
+
 - **1:1 EB1A Discovery & Self-Petition Evaluation**  
 - **Lift & Shift — My EB1A Success Petition Copy Bundle**  
 - **1:1 EB1A Self-Petition Review**  
 
-👉 Topmate link: https://topmate.io/eb1a_selfpetition/
+
