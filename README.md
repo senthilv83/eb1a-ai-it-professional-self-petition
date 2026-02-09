@@ -1,5 +1,4 @@
-# 🚀 EB1A Self-Petition & Self-Filing Journey for AI, Data Science & ML Professionals  
-### (Beyond Academic Research)
+# 🚀 EB1A Self-Petition & Self-Filing Journey for AI, Data Science & ML Professionals (Beyond Academic Research)
 
 Most EB1A resources focus on PhDs and professors — creating the false belief that industry AI professionals don’t qualify.
 
@@ -68,7 +67,7 @@ I successfully **self-petitioned and self-filed my EB1A in the niche of _High-Pe
 
 ---
 
-## 🔥 EB1A Myths That Stop AI Professionals (Debunked)
+## 🔥 EB1A Myths That Stop AI Professionals 
 
 | Myth | Reality |
 |------|--------|
@@ -95,7 +94,7 @@ Based on my approved EB1A journey, I created a **complete self-petition toolkit*
 
 ### 🎯 Built For
 
-**AI Industry Researchers • Industry Leaders • AI/ML Innovators • Data Scientists • ML Engineers • AI Architects**
+*AI Industry Researchers • Industry Leaders • AI/ML Innovators • Data Scientists • ML Engineers • AI Architects*
 
 Using the Topmate services below, you can directly map your resume against my real self-petition journey to:
 
