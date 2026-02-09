@@ -16,7 +16,7 @@ I successfully **self-petitioned and self-filed my EB1A in the niche of _High-Pe
 ### (6 Approved Criteria + Common Myths)
 
 ### 🏆 1) Awards & Recognitions  
-**What worked:** National and industry technology awards — not just academic prizes.  
+**What worked:** India Govt National Award and Industry technology awards — not just academic prizes.  
 **Myth:** Only Nobel-level or university awards count  
 **Reality:** Competitive industry and government recognitions fully qualify  
 
