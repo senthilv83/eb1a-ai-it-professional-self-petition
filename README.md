@@ -13,7 +13,7 @@ I successfully **self-petitioned and self-filed my EB1A in the niche of _High-Pe
 ---
 
 ## 🤖 How AI Professionals Qualify for EB1A — My Self-Petition Journey  
-*(6 Approved Criteria + Common Myths)*
+**6 Approved Criteria + Common Myths**
 
 ### 🏆 1) Awards & Recognitions
 **What worked:** India Government National Award and industry technology awards — not just academic prizes.  
