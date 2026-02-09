@@ -76,7 +76,7 @@ I successfully **self-petitioned and self-filed my EB1A in the niche of _High-Pe
 | Only academia counts | Business & tech impact counts |
 | Need all 10 criteria | 3 criteria required to meet + final merits determination |
 | Attorney required | Self-petition allowed |
-| Only professors succeed | AI leaders qualify |
+| Only professors succeed | AI Industry Researchers • Industry Leaders • AI/ML Innovators • Data Scientists • ML Engineers • AI Architects qualify |
 
 ---
 
