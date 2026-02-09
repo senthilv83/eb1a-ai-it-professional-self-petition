@@ -1,12 +1,12 @@
 # 🚀 EB1A Self-Petition & Self-Filing Journey for AI, Data Science & ML Professionals (Beyond Academic Research)
 
-Most EB1A resources focus on PhDs and Academic Researchers (Non IT Profiles) — creating the false belief that industry AI professionals don’t qualify.
+Most EB1A resources focus on PhDs and Academic Researchers (Non IT Profiles), which often creates the misconception that **IT industry professionals in AI, Data Science, and Machine Learning** don’t qualify.
 
 **This is wrong.**
 
 USCIS allows EB1A for extraordinary ability in **Technology, Business Transformation, and Applied Innovation**, which fits AI, Data Science, and Machine Learning professionals working across research and industry.
 
-I successfully **Self-petitioned and Self-filed my EB1A in the niche of _High-Performance Computing (HPC) Applications in AI_** without an attorney — proving EB1A is absolutely achievable beyond academia for **AI, Data Science & ML Professionals**
+I successfully **Self-petitioned and Self-filed my EB1A in the niche of _High-Performance Computing (HPC) Applications in AI_** without an attorney — , proving that EB1A is absolutely achievable for IT professionals **AI, Data Science & ML Professionals** beyond academic research 
 
 > ⚠️ **Disclaimer:** I’m not an immigration attorney. This content is based on my personal EB1A self-petition experience. Please consult a qualified immigration lawyer for legal advice.
 
@@ -104,12 +104,14 @@ Based on my approved EB1A journey, I created a **complete self-petition toolkit*
 
 ---
 
-## 🔗 My Topmate EB1A Services
+## 🔗 My Topmate EB1A Services - To help IT professionals navigate EB1A with clarity and confidence, I now offer three focused services:
 
 👉 https://topmate.io/eb1a_selfpetition/
 
-- **1:1 EB1A Discovery & Self-Petition Evaluation**  
-- **Lift & Shift — My EB1A Success Petition Copy Bundle**  
-- **1:1 EB1A Self-Petition Review**
+- 🔍 **1:1 EB1A Gap Analysis Call – A personalized evaluation of your profile against USCIS EB1A criteria to identify strengths, gaps, and realistic approval readiness**
+
+- 📦 **EB1A Self-Petition Bundle – My sanitized USCIS-approved EB1A petition, AI/DS/ML-focused recommendation letter samples, and a framework to run deep analysis using your preferred LLM**
+
+- 🧠 **1:1 EB1A Strategy & Petition Review – After you build your self-petition using the bundle, a detailed review and strategy session to refine positioning and close gaps for stronger approval readiness**
 
 ---
