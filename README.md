@@ -94,7 +94,7 @@ Based on my approved EB1A journey, I created a **complete self-petition toolkit*
 
 ### 🎯 Built For AI Industry Researchers • Industry Leaders • AI/ML Innovators • Data Scientists • ML Engineers • AI Architects
 
-## Using the Topmate services below, you can directly map your resume against my real self-petition journey to:
+** Using the Topmate services below, you can directly map your resume against my real self-petition journey to:**
 
 - ✅ Identify EB1A gaps  
 - ✅ Avoid unnecessary heavy investment of time and money upfront  
