@@ -110,7 +110,7 @@ Based on my approved EB1A journey, I created a **complete self-petition toolkit*
 
 - 🔍 **1:1 EB1A Gap Analysis Call** – A personalized evaluation of your profile against USCIS EB1A criteria to identify strengths, gaps, and realistic approval readiness
 
-- 📦 **EB1A Self-Petition Bundle** – My sanitized, USCIS-approved EB1A petition, AI/DS/ML-focused recommendation letter samples, and a framework to compare your resume with my approved petition using your preferred LLM to uncover a clear EB1A pathway in minutes
+- 📦 **EB1A Self-Petition Bundle** – My EB1A petition Overview, AI/DS/ML-focused recommendation letter samples, and a framework to compare your resume with my approved petition overview using your preferred LLM to uncover a clear EB1A pathway in minutes
 
 - 🧠 **1:1 EB1A Strategy & Petition Review** – After you build your self-petition using the bundle, a detailed review and strategy session to refine positioning, close gaps, save time, and invest wisely for stronger approval readiness
 
